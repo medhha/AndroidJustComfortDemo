@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1087182943364",
+    "firebase_url": "https://androidjustcomfortdemo.firebaseio.com",
+    "project_id": "androidjustcomfortdemo",
+    "storage_bucket": "androidjustcomfortdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087182943364:android:f57259132a11c3d9",
+        "android_client_info": {
+          "package_name": "com.medhha.androidjustcomfortdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087182943364-ht3p2srqbtgm38n9md1sofmrsjiqhqvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medhha.androidjustcomfortdemo",
+            "certificate_hash": "8cf4ddeb0746a7f92b2271d6460c5bdcab818f0d"
+          }
+        },
+        {
+          "client_id": "1087182943364-5nbhcirveurpj7en19e8f2lmu3urbs2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnzbme9JvVrB_D1SaSFKiwVEFnjfU0w-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087182943364-5nbhcirveurpj7en19e8f2lmu3urbs2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
